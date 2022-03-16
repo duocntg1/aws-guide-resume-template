@@ -1,1 +1,0 @@
-# aws-guide-resume-template
